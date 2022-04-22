@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&family=Work+Sans:wght@400;500;600;700&display=swap');
 
 * {
     padding: 0;
@@ -23,7 +23,7 @@ body {
 
 
 input {
-    font-family: 'Work Sans',
+    font-family: 'popp',
         sans-serif;
     padding: 0.5rem;
     margin: 1rem;
